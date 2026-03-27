@@ -180,7 +180,7 @@ const App = () => {
             <div className="hero-btns">
               <a href="#projects" className="btn-primary">View My Work <ChevronRight size={18} /></a>
               <div className="social-links">
-                <a href="https://linkedin.com/in/satvik-rokade" target="_blank" rel="noreferrer"><Linkedin size={20} /></a>
+                <a href="https://www.linkedin.com/in/satvik-rokade-321b36345/" target="_blank" rel="noreferrer"><Linkedin size={20} /></a>
                 <a href="https://github.com/satvikrokade" target="_blank" rel="noreferrer"><Github size={20} /></a>
                 <a href="mailto:satvik.12312@gmail.com"><Mail size={20} /></a>
               </div>
